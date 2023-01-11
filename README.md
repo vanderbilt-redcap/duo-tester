@@ -8,7 +8,7 @@ Download this repo, unzip it, and copy it in the REDCap plugins folder.
 
 ## Usage
 
-Download the latest release, unzip the content, and copy it in the REDCap plugins folder.
+Download the latest release, unzip the content, and copy it in the REDCap plugins folder, then visit the plugin page.
 ![example](https://raw.githubusercontent.com/vanderbilt-redcap/duo-tester/main/assets/example_1.png)
 
 ### Expected steps in DUO 2FA:
