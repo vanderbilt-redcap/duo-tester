@@ -6,6 +6,11 @@ REDCAp plugin to help identify issues related to the DUO Two-Factor Authenticati
 
 Download this repo, unzip it, and copy it in the REDCap plugins folder.
 
+## Usage
+
+Download the latest release, unzip the content, and copy it in the REDCap plugins folder.
+[example](https://raw.githubusercontent.com/vanderbilt-redcap/duo-tester/main/assets/example_1.png)
+
 ### Expected steps in DUO 2FA:
 
 * user logs in providing REDCap credentials
