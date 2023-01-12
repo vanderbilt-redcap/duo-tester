@@ -26,3 +26,4 @@ Download the latest release, unzip the content, and copy it in the REDCap plugin
     * Duo performs an Health check
     * user is redirected to DUO
 * the user is redirected to REDCap
+* REDCap makes an HTTPS call to the DUO endpoint: https://api-xxxxxxxx.duosecurity.com to exchange the code for a 2FA result
