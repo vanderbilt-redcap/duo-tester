@@ -167,7 +167,7 @@ main {
 		</div>
 	<?php else: ?>
 
-		<?if($results): ?>
+		<?php if($results): ?>
 		<div class="mt-2 card p-2">
 			<div class="card-body">
 				<!-- <h5 class="card-title">Info</h5> -->
@@ -198,7 +198,7 @@ main {
 		</div>
 		<?php endif; ?>
 	<?php endif; ?>
-	<?if($message): ?>
+	<?php if($message): ?>
 	<pre class="mt-2">
 		<?= print_r($message) ?>
 	</pre>
